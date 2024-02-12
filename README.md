@@ -6,7 +6,7 @@ e veja quão bem você conhece os conceitos fundamentais dessa linguagem dinâmi
 
 ### TECNOLOGIAS UTILIZADAS
 
-HTML
-CSS
-Javascript
-Github
+- HTML
+- CSS
+- Javascript
+- Github
